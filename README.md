@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/ai-summarizer/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/ai-summarizer)](https://github.com/Ankit-Sharma1011/ai-summarizer/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/ai-summarizer/main)](https://github.com/Ankit-Sharma1011/ai-summarizer/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b406197-21d8-4e96-9fdd-52c782540f0e/deploy-status)](https://summise.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b406197-21d8-4e96-9fdd-52c782540f0e/deploy-status)](https://ai-summarizee.netlify.app/ "Netlify Status")
 [![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/ai-summarizer)](https://github.com/Ankit-Sharma1011/ai-summarizer/issues "GitHub issues")
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Ankit-Sharma1011/ai-summarizer)](https://github.com/Ankit-Sharma1011/ai-summarizer/pulls "GitHub pull requests")
 
